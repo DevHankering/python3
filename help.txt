@@ -1,0 +1,4 @@
+--> If you are unable to open anaconda through terminal 
+just type :    $ source ~/anaconda3/bin/activate root    and hit enter
+--> and after that jus type this:   $ anaconda-navigator    
+this should solve your problem
